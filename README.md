@@ -1,7 +1,7 @@
 ### Olá, bem vindo! 👋
 
 Desenvolvedor Full-Stack e Designer 
- React.js | TypeScript | Node.js |
+- React.js | TypeScript | Node.js |
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
