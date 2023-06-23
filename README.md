@@ -3,7 +3,7 @@
 Desenvolvedor Full-Stack e Designer 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=williansnex&show_icons=true&theme=dark&count_private=true)
-
+<div style="display: inline_block">
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
