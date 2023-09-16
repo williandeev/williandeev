@@ -1,6 +1,6 @@
 ### Olá, bem-vindo! 👋
 
-Desenvolvedor Full-Stack e Designer 
+Desenvolvedor Full-Stack
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=williansnex&show_icons=true&theme=dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williansnex&layout=compact&theme=dark)](https://github.com/williansnex)
