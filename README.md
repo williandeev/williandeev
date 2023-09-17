@@ -20,4 +20,5 @@ Desenvolvedor Full-Stack
 
 ## Sobre Mim
 Eu sou um desenvolvedor apaixonado por tecnologia, especializado em React, Node.js e C#. Estou constantemente explorando novas tecnologias e procurando maneiras de criar soluções melhores e mais eficientes. Quando não estou codificando, gosto de mergulhar em projetos de design e explorar novas tendências de design de interface.
+
 </div>
