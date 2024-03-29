@@ -1,19 +1,35 @@
-### Olá, seja bem-vindo! 👋
 
-Desenvolvedor Full-Stack
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=williansnex&show_icons=true&theme=dark&count_private=true)
 
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+### Welcome to my profile! 👋
+
+I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS and ReactJS (Web Front-End) and React Native (Mobile Development).
+
+
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=williansnex&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=williansnex&layout=compact&theme=dracula">
 </div>
 
+💻 Toolbox
+  <ul>
+      <li>Mobile with React Native</li>
+      <li>Front-End with ReactJS e AngularJS</li>
+      <li>Back-End with Python(Django)</li>
+  </ul>
+  
+<div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/django.svg'>
+</div>
+
+
+
+ 
 
