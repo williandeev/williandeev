@@ -14,7 +14,7 @@ I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS a
 💻 Toolbox
   <ul>
       <li>Mobile with React Native</li>
-      <li>Front-End with ReactJS e AngularJS</li>
+      <li>Front-End with ReactJS and AngularJS</li>
       <li>Back-End with Python(Django)</li>
   </ul>
   
