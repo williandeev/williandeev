@@ -5,10 +5,9 @@
 
 I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS and ReactJS (Web Front-End) and React Native (Mobile Development).
 
-
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=williansnex&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=williansnex&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=williansnex&show_icons=true&theme=algolia&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=williansnex&layout=compact&theme=algolia">
 </div>
 
 💻 Toolbox
