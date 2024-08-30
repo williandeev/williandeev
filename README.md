@@ -1,6 +1,3 @@
-
-
-
 ### Welcome to my profile! 👋
 
 I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS and ReactJS (Web Front-End) and React Native (Mobile Development).
@@ -11,11 +8,11 @@ I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS a
 </div>
 
 💻 Toolbox
-  <ul>
-      <li>Mobile with React Native</li>
-      <li>Front-End with ReactJS and AngularJS</li>
-      <li>Back-End with Python(Django)</li>
-  </ul>
+<ul>
+  <li>Mobile with React Native</li>
+  <li>Front-End with ReactJS and AngularJS</li>
+  <li>Back-End with Python(Django)</li>
+</ul>
   
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
@@ -27,8 +24,3 @@ I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS a
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/django.svg'>
 </div>
-
-
-
- 
-
