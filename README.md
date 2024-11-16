@@ -13,6 +13,8 @@ I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS a
   <li>Front-End with ReactJS and AngularJS</li>
   <li>Back-End with Python(Django)</li>
 </ul>
+
+<br>
   
 <div>
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> &nbsp;
