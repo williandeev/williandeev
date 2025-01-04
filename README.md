@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS and ReactJS (Web Front-End) and React Native (Mobile Development).
+I'm a Full-Stack developer focusing on Python using Django (Back-End), AngulrJS and ReactJS (Web Front-End) and React Native (Mobile Development).
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=williansnex&show_icons=true&theme=algolia&count_private=true">
