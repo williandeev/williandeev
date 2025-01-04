@@ -25,5 +25,6 @@ I'm a Full-Stack developer focused on Python using Django (Back-End), AngulrJS a
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"> &nbsp;
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"> &nbsp;
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+    <img height="50em" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"> &nbsp;
 </div>
 
