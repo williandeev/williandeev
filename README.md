@@ -1,4 +1,4 @@
-### Welcome to my profile! 👋
+### Welcome to my profile!
 
 I am a Full-Stack Developer focusing on Python with Django for back-end development, AngularJS and ReactJS for web front-end development, and React Native for mobile development.
 
