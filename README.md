@@ -1,20 +1,12 @@
-### Welcome to my profile!
+### Welcome to my profile! 👋
 
-I am a Full-Stack Developer focusing on Python with Django for back-end development, AngularJS and ReactJS for web front-end development, and React Native for mobile development.
+<p>Full-Stack developer (REACT NATIVE, REACT, ANGULAR, NEXT.JS, PYTHON, DJANGO)</p>
 
 <div>
   <a href="https://github.com/williandeev">
   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=williandeev&show_icons=true&theme=dracula&count_private=true">
   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=williandeev&layout=compact&theme=dracula&count_private=true">
 </div>
-
-
-💻 Toolbox
-<ul>
-  <li>Mobile with React Native</li>
-  <li>Front-End with ReactJS and AngularJS</li>
-  <li>Back-End with Python(Django)</li>
-</ul>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-ReactNative" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
