@@ -7,8 +7,9 @@
 <br />
 
 <a href="https://www.williandev.com"><img src="https://img.shields.io/badge/PORTFOLIO-williandev.com-b91c1c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/willian-dev"><img src="https://img.shields.io/badge/LINKEDIN-willian--dev-b91c1c?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/BASED_IN-S%C3%A3o_Paulo%2C_BR-b91c1c?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="São Paulo, BR" />
-<img src="https://img.shields.io/badge/WORKING_AT-SOFTCON_%2F_GELOT-b91c1c?style=for-the-badge&labelColor=0d1117" alt="SOFTCON / GELOT" />
+<img src="https://img.shields.io/badge/WORKING_AT-ORYA-b91c1c?style=for-the-badge&labelColor=0d1117" alt="ORYA" />
 
 </div>
 
@@ -20,7 +21,7 @@
 const willian = {
   role:     "Full-Stack Developer",
   location: "São Paulo, Brazil",
-  company:  "SOFTCON / GELOT",
+  company:  "ORYA",
   mobile:   ["React Native", "Expo"],
   frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind"],
   backend:  ["Python", "Django"],
